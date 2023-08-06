@@ -2,5 +2,5 @@
   "server": "corteximplant.com",
   "home-timeline-length": 200,
   "max-followings": 80,
-  "from-notifications": 4
+  "from-notifications": 1
 }
