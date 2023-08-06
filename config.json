@@ -1,7 +1,7 @@
 {
   "server": "corteximplant.com",
   "user": "fsys",
-  "home-timeline-length": 200,
+  "home-timeline-length": 50,
   "max-followings": 80,
   "max-followers": 80,
   "from-notifications": 1
